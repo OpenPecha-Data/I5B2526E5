@@ -1,15 +1,16 @@
-id: opecha:P007873
+id: P007873
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG08457
   title: དུང་དཀར་བློ་བཟང་འཕྲིན་ལས་ཀྱི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
-  volume:
+  author: ''
+  volumes:
     d95d7f7534704613966a4ec083aab2b9:
       image_group_id: I1KG564
       title: Volume 1 of gsung rtsom/_blo bzang 'phrin las
       volume_number: 1
       total_pages: 646
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དུང་དཀར་བློ་བཟང་འཕྲིན་ལས་ཀྱི་གསུང་རྩོམ་ཕྱོགས་བསྒྲིགས།
   author: ''
